@@ -78,5 +78,3 @@ if search_result or type(search_result) is int:
         print("Индекс следующего числа:", next_index, "Его номер по счету:", next_index + 1)
 else:
     print("Вашего числа нет в последовательности. Введите число из последовательности.")
-
-1
